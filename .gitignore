@@ -5,3 +5,6 @@
 
 # Python
 __pycache__/
+**/build/UnityHere/
+*.spec
+**/build/setup/UnityHere/Debug
